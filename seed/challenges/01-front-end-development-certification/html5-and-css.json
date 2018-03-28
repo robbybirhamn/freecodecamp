@@ -27,21 +27,6 @@
         "assert.isTrue((/hello(\\s)+world/gi).test($('h1').text()), 'message: Element <code>h1</code>harus berisi teks \"Hello World\".');"
       ],
       "type": "waypoint",
-      "titleEs": "Saluda a los Elementos HTML",
-      "descriptionEs": [
-        "¡Bienvenido/a al primer desafío de programación de Free Code Camp!",
-        "Puedes editar tu <code>código</code> en tu <code>editor de texto</code>, que hemos incrustado en esta página web.",
-        "¿Ves el código en tu editor de texto que dice <code>&#60;h1&#62;Hello&#60;/h1&#62;</code>? Ese es un <code>elemento</code> HTML.",
-        "La mayoría de los elementos HTML tienen una <code>etiqueta de apertura</code> y una <code>etiqueta de cierre</code>.",
-        "Las etiquetas de apertura se ven como:",
-        "<code>&#60;h1&#62;</code>",
-        " Las etiquetas de cierre se ven como:",
-        "<code>&#60;/h1&#62;</code>",
-        "Fíjate que la única diferencia entre las etiquetas de apertura y de cierre es que estas últimas tienen un / después de su signo de apertura (<).",
-        "Cada desafío tiene pruebas que puedes ejecutar en cualquier momento presionado el botón \"Run tests\". Una vez logres pasar todas las pruebas, podrás avanzar al siguiente desafío.",
-        "Para pasar la prueba en este desafío, cambia tu texto de la etiqueta <code>h1</code> para que diga \"Hello World\" en lugar de \"Hello\". Entonces presiona el botón \"Ejecutar pruebas\"."
-      ],
-      "titleDe": "Begrüße die HTML Elemente",
       "challengeType": 0
     },
     {
