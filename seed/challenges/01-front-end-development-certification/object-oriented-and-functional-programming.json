@@ -15,7 +15,7 @@
   "challenges": [
     {
       "id": "cf1111c1c15feddfaeb1bdef",
-      "title": "Declare JavaScript Objects as Variables",
+      "title": "Mendeklarasi Objek javascript seperti variabel",
       "description": [
         "Before we dive into Object Oriented Programming, let's revisit JavaScript objects.",
         "Give your <code>motorBike</code> object a <code>wheels</code>, <code>engines</code> and <code>seats</code> attribute and set them to numbers."
