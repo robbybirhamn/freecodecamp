@@ -33,7 +33,7 @@ main = (function(main, global) {
       );
 
       main.chat.helpChat = new main.chat.GitterChat({
-        room: `sandec-fcc/${room}`,
+        room: `semrang-js/${room}`,
         activationElement: false,
         targetElement: $('#chat-embed-help')
       });
@@ -76,7 +76,7 @@ main = (function(main, global) {
     );
 
     main.chat.mainChat = new main.chat.GitterChat({
-      room: 'sandec-fcc/freecodecamp',
+      room: 'semarang-js/camp',
       activationElement: false,
       targetElement: $('#chat-embed-main')
     });

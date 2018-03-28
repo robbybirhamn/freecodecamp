@@ -8,7 +8,7 @@
       "id": "bd7123c8c441eddfaeb5bdef",
       "title": "Say Hello to HTML Elements",
       "description": [
-        "Selamat datang di tantangan ngoding Free Code Camp (translated by: SANDEC) yang pertama.",
+        "Selamat datang di tantangan ngoding Free Code Camp (translated by: Semarang JS) yang pertama.",
         "Kamu bisa mengedit <code>code</code> di <code>text editor</code>, yang ada di sebelah kanan atau bawahmu (kalah di hp)",
         "Apakah kamu melihat di teks editormu yang berisi <code>&#60;h1&#62;Hello&#60;/h1&#62;</code>? Itu adalah HTML <code>element</code>.",
         "Kebanyakan HTML elements mempunyai <code>pembuka tag</code> dan sebuah <code>penutup tag</code>.",

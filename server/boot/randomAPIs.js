@@ -42,7 +42,7 @@ module.exports = function(app) {
   app.use(router);
 
   function chat(req, res) {
-    res.redirect('https://gitter.im/sandec-fcc/freecodecamp');
+    res.redirect('https://gitter.im/semarang-js/camp');
   }
 
   function showLabs(req, res) {
